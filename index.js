@@ -1,4 +1,4 @@
-// In-memory storage for emails (for production, you'd want to use a database)
+
 let emailStorage = [];
 
 // Helper function to extract email data from form data
